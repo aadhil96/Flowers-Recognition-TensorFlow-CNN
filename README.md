@@ -8,6 +8,8 @@
 
 The pictures are divided into five classes: chamomile, tulip, rose, sunflower, dandelion.For each class there are about 800 photos. Photos are not high resolution, about 320x240 pixels. Photos are not reduced to a single size, they have different proportions!
 
+#### Traning Accuracy
 ![Capture](https://user-images.githubusercontent.com/28821226/104838802-37af7c00-58e3-11eb-808e-ebe0150f79f9.JPG)
-![Capture](https://user-images.githubusercontent.com/28821226/104838800-35e5b880-58e3-11eb-80b1-5276ce448a6f.JPG)
 
+#### Testing Accuracy
+![Capture2](https://user-images.githubusercontent.com/28821226/104838807-3bdb9980-58e3-11eb-963d-25348749fc8f.JPG)
